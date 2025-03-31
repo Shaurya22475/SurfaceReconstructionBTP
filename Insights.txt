@@ -1,0 +1,7 @@
+Week1: Trying out random fourier features instead of Positional Encoding
+Found convex Hull sampling in OReX is erroneous. 
+Found OReX uses high number of parallel planes to get their results. Tried to run OReX on sparse and arbitrary cross sectioned object.
+
+LeakyRelu -> GelU
+Attention
+
